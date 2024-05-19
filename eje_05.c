@@ -12,8 +12,8 @@ int main( ) {
     /*la variable temp recibe el numero de multiplos de 7 encontrados en el intervalo (0,n]*/
     temp = multiplos(n);
 
-    printf("En el intervalo ingresado el total de numeros que son multiplos de 7 son:\n");
-    printf("%d", temp);
+    printf("En el intervalo ingresado el total de numeros que son multiplos de 7 son:");
+    printf("%d\n", temp);
 }
 
 /*Esta funcion busca los numeros multiplos de 7 por medio del modulo de 7*/
