@@ -20,6 +20,7 @@ resultado = serie(n);
 
 printf("El valor de la serie ingresada es:\n");
 printf("%f\n",resultado);
+return 0;
 }
 
 /*a continuacion se define las operaciones que se van a realizar en la funcion serie*/
